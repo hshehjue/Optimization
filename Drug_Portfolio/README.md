@@ -1,5 +1,5 @@
 # Integer Programming: Drug Portfolio for Zinca Inc.
-### Description: [Case](https://github.com/hshehjue/Optimization/blob/main/Drug_Portfolio/Case.pdf)
+### LINK: [Case](https://github.com/hshehjue/Optimization/blob/main/Drug_Portfolio/Case.pdf) | [Report](https://github.com/hshehjue/Optimization/blob/main/Drug_Portfolio/IPworkshop_report%20.pdf)
 ## Information
 * **Project Type:** Workshop Project
 * **Delivered by:** DNSC6308: Optimization II
