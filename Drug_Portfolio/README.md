@@ -1,6 +1,5 @@
 # Integer Programming: Drug Portfolio for Zinca Inc.
 ### Description: [Case](https://github.com/hshehjue/Optimization/blob/main/Drug_Portfolio/Case.pdf)
-### Codes: [Code]
 ## Information
 * **Project Type:** Workshop Project
 * **Delivered by:** DNSC6308: Optimization II
@@ -9,3 +8,16 @@
 * **Email:** SeungHeon Han
 * **Duration:** 2 weeks
 * **Tool:** Python Gurobi v9.5.0
+
+## Project Summary
+* **Objective:** By employing Lnear/Integer programming skills, the most optimal portfolio for the drug development has to be made. While optimizing the given objective functions, it is strictly required to reflect multiple uncertanties and changes in business policies, enviornments, and goals by adjusting the overall programming settings or constraints to handle them. The detailed case and required assignments are described [here](https://github.com/hshehjue/Optimization/blob/main/Drug_Portfolio/Case.pdf).
+
+* **Data**
+  - **drugs** [drugs.csv]()
+    -  Drug Types(Project): 114 types
+    -  Therapeutic Areas(TA): 7 areas
+    - Return: Expected returns by different drug types
+    - Cost This year: Cost for developing 
+  - **drugs_cov** [drug_cov]()
+    - Covariance of the expected returns of all of the drugs
+    - Used for a risk management
