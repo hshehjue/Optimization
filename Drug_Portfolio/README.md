@@ -11,7 +11,7 @@
 
 ## Project Summary
 * **Objective:** 
-  - By employing Lnear/Integer programming skills, the most optimal portfolio for the drug development has to be made. While optimizing the given objective functions, it is strictly required to reflect multiple uncertanties and changes in business policies, enviornments, and goals by adjusting the overall programming settings or constraints to handle them. The detailed case and required assignments are described [here](https://github.com/hshehjue/Optimization/blob/main/Drug_Portfolio/Case.pdf).
+  - By employing Lnear/Integer programming skills, the most optimal portfolio for the drug development has to be made. While optimizing the given objective functions, it is strictly required to reflect various uncertanties including risks and changes in business policies, enviornments, and goals by adjusting the overall programming settings or constraints to handle them. The detailed case and required assignments are described [here](https://github.com/hshehjue/Optimization/blob/main/Drug_Portfolio/Case.pdf).
 
 * **Data**
   - **drugs** [drugs.csv](https://github.com/hshehjue/Optimization/blob/main/Drug_Portfolio/Data/drugs.csv)
